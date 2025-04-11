@@ -1,0 +1,36 @@
+{
+    "name": "vercel-icons",
+    "version": "1.0.0",
+    "description": "A clean, minimal React icon library inspired by Vercel's Geist design system.",
+    "type": "module",
+    "main": "index.js",
+    "module": "index.js",
+    "keywords": [
+      "vercel-icons",
+      "geist",
+      "icons",
+      "react-icons",
+      "vercel",
+      "svg",
+      "ui-icons",
+      "geist-ui",
+      "icon-library"
+    ],
+    "author": {
+      "name": "Abdulla Al Bayozid",
+      "email": "bayozid07@gmail.com",
+      "url": "https://iambayozid.vercel.app/"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/iambayozid/vercel-icons.git"
+    },
+    "bugs": {
+      "url": "https://github.com/iambayozid/vercel-icons/issues"
+    },
+    "homepage": "https://github.com/iambayozid/vercel-icons#readme",
+    "peerDependencies": {
+      "react": "*"
+    }
+  }
+  
